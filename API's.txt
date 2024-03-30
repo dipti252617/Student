@@ -1,0 +1,26 @@
+1.Get All Students Information 
+
+Get
+http://localhost:9090/api/student
+
+2.Get Student Information By Particular Roll_no
+
+Get
+http://localhost:9090/api/student/2
+
+3.Create a ID 
+
+Post
+http://localhost:9090/api/student
+
+4.Update a ID
+
+Put
+http://localhost:9090/api/student
+
+5.Delete a Particular ID
+
+Delete
+http://localhost:9090/api/student/3
+
+
